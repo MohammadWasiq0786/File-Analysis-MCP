@@ -16,6 +16,22 @@ This project is powered by the **Euri API KEY** from [Euron.one](https://euron.o
 
 ---
 
+## Demo
+
+## Home
+
+![image](./media/image1.png)
+
+## Insights
+
+![insight](./media/insights.png)
+
+## Auto Visualizations
+
+![visual](./media/autovisual.png)
+
+---
+
 ## ⚙️ Getting Started
 
 Follow these steps to set up and run the project on your local machine:
@@ -23,10 +39,9 @@ Follow these steps to set up and run the project on your local machine:
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/file-analysis-mcp.git
+git clone https://github.com/MohammadWasiq0786/File-Analysis-MCP.git
 cd file-analysis-mcp
 ```
-
 ### 🐍 Step 2: Create and Activate Python Virtual Environment
 
 ```bash
